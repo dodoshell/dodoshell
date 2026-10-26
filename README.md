@@ -1,10 +1,16 @@
 ### Hi there
 
-Full-stack developer working mostly with Java, TypeScript and Python. I like digging into real bugs in open source projects and sending fixes with tests.
+Full-stack developer working mostly with Java, TypeScript and Python. I build products end to end, and I like digging into real bugs in open source projects and sending fixes with tests.
+
+**Portfolio:** [dodoshell.vercel.app](https://dodoshell.vercel.app), with a case study for each project below.
 
 #### Projects
 
+- [**Poltrona**](https://dodoshell.vercel.app/en/work/poltrona): cloud management for hair salons, where the database itself refuses double bookings (Next.js, Supabase, PostgreSQL). [Live](https://poltrona.app)
+- [**Corsia**](https://dodoshell.vercel.app/en/work/corsia): exam prep for taxi and chauffeur drivers, with answers graded on the server and idempotent Stripe webhooks (Next.js, Supabase, Stripe). [Live](https://corsia-two.vercel.app)
+- [**Sconti Nova**](https://dodoshell.vercel.app/en/work/sconti-nova): Amazon deals verified every hour, built with a partner (Next.js, Supabase, PostgreSQL). [Live](https://www.scontinova.com)
 - [**iter**](https://github.com/dodoshell/iter): leave request management with a state-machine approval workflow (Spring Boot, React, PostgreSQL, Docker). [Live demo](https://iter-rosy.vercel.app)
+- [**portfolio**](https://github.com/dodoshell/portfolio): the site above, with a three.js shader background (Next.js 16, React 19)
 
 #### Open source contributions
 
