@@ -14,10 +14,13 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 
 #### Open source contributions
 
+- [The-PR-Agent/pr-agent#4425](https://github.com/The-PR-Agent/pr-agent/pull/4425): make the LiteLLM handler the only retry layer, honouring `Retry-After` (merged)
 - [doobidoo/mcp-memory-service#1648](https://github.com/doobidoo/mcp-memory-service/pull/1648): report memory load and save status to Codex through `systemMessage` (merged)
+- [doobidoo/mcp-memory-service#1676](https://github.com/doobidoo/mcp-memory-service/pull/1676): make the dashboard's Quality tab actually save its settings (merged)
+- [LearningCircuit/local-deep-research#7886](https://github.com/LearningCircuit/local-deep-research/pull/7886): behaviour tests for the Zotero collection picker (merged)
 - [btclib-org/btclib#2776](https://github.com/btclib-org/btclib/pull/2776): tests for the signature-operation boundaries (merged)
-- [doobidoo/mcp-memory-service#1676](https://github.com/doobidoo/mcp-memory-service/pull/1676): make the dashboard's Quality tab actually save its settings
-- [LearningCircuit/local-deep-research#7886](https://github.com/LearningCircuit/local-deep-research/pull/7886): behaviour tests for the Zotero collection picker
-- [ludo-technologies/pyscn#865](https://github.com/ludo-technologies/pyscn/pull/865): LCOM4 no longer counts inherited method calls as instance state
+- [btclib-org/btclib#2821](https://github.com/btclib-org/btclib/pull/2821): `assert_p2tr` names the right witness version, with four new refusal tests (merged)
+- [ludo-technologies/pyscn#865](https://github.com/ludo-technologies/pyscn/pull/865): LCOM4 no longer counts inherited method calls as instance state (merged)
+- [ludo-technologies/pyscn#866](https://github.com/ludo-technologies/pyscn/pull/866): the single-responsibility rule counts sibling modules as one concern
 - [Rizzo-AI-Academy/rizzo-pii#141](https://github.com/Rizzo-AI-Academy/rizzo-pii/pull/141): fix a torch thread leak on Windows
 - [RailtownAI/railtracks#1734](https://github.com/RailtownAI/railtracks/pull/1734): accept local `.avif` attachments
