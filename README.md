@@ -33,3 +33,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [btclib-org/btclib#2909](https://github.com/btclib-org/btclib/pull/2909): the import test also keeps btclib free of `bip32_descriptors`
 - [lingui/js-lingui#2766](https://github.com/lingui/js-lingui/pull/2766): plural and selectordinal no longer pick up members inherited from `Object.prototype`
 - [lingui/js-lingui#2767](https://github.com/lingui/js-lingui/pull/2767): a macro placeholder named `__proto__` stays a normal value
+- [spring-projects/spring-session#4150](https://github.com/spring-projects/spring-session/pull/4150): changing a session id removes the old id from the Redis expirations set
+- [pmd/pmd#7280](https://github.com/pmd/pmd/pull/7280): `InternalApiUsage` no longer flags `@VisibleForTesting` members used inside their own record or enum
