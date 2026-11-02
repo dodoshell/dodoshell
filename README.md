@@ -25,5 +25,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [Rizzo-AI-Academy/rizzo-pii#141](https://github.com/Rizzo-AI-Academy/rizzo-pii/pull/141): fix a torch thread leak on Windows
 - [RailtownAI/railtracks#1734](https://github.com/RailtownAI/railtracks/pull/1734): accept local `.avif` attachments (merged)
 - [LearningCircuit/local-deep-research#8124](https://github.com/LearningCircuit/local-deep-research/pull/8124): the PDF export renders a table that directly follows text as a table (merged)
-- [ludo-technologies/pyscn#874](https://github.com/ludo-technologies/pyscn/pull/874): the deep-nesting suggestion points at the deepest block instead of the `def` line
+- [ludo-technologies/pyscn#874](https://github.com/ludo-technologies/pyscn/pull/874): the deep-nesting suggestion points at the deepest block instead of the `def` line (merged)
 - [RailtownAI/railtracks#1765](https://github.com/RailtownAI/railtracks/pull/1765): rewriting a Chroma entry no longer keeps stale chunk metadata
