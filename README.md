@@ -27,9 +27,9 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [LearningCircuit/local-deep-research#8124](https://github.com/LearningCircuit/local-deep-research/pull/8124): the PDF export renders a table that directly follows text as a table (merged)
 - [ludo-technologies/pyscn#874](https://github.com/ludo-technologies/pyscn/pull/874): the deep-nesting suggestion points at the deepest block instead of the `def` line (merged)
 - [RailtownAI/railtracks#1765](https://github.com/RailtownAI/railtracks/pull/1765): rewriting a Chroma entry no longer keeps stale chunk metadata
-- [LearningCircuit/local-deep-research#8212](https://github.com/LearningCircuit/local-deep-research/pull/8212): hiding the settings JSON editor saves only the keys that were edited
-- [LearningCircuit/local-deep-research#8213](https://github.com/LearningCircuit/local-deep-research/pull/8213): a failed theme save from the header puts the previous theme back
-- [btclib-org/btclib#2908](https://github.com/btclib-org/btclib/pull/2908): `obfuscate` refuses a huge negative offset with btclib's own error
+- [LearningCircuit/local-deep-research#8212](https://github.com/LearningCircuit/local-deep-research/pull/8212): hiding the settings JSON editor saves only the keys that were edited (merged)
+- [LearningCircuit/local-deep-research#8213](https://github.com/LearningCircuit/local-deep-research/pull/8213): a failed theme save from the header puts the previous theme back (merged)
+- [btclib-org/btclib#2908](https://github.com/btclib-org/btclib/pull/2908): `obfuscate` refuses a huge negative offset with btclib's own error (merged)
 - [btclib-org/btclib#2909](https://github.com/btclib-org/btclib/pull/2909): the import test also keeps btclib free of `bip32_descriptors`
 - [lingui/js-lingui#2766](https://github.com/lingui/js-lingui/pull/2766): plural and selectordinal no longer pick up members inherited from `Object.prototype`
 - [lingui/js-lingui#2767](https://github.com/lingui/js-lingui/pull/2767): a macro placeholder named `__proto__` stays a normal value
