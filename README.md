@@ -33,4 +33,7 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [btclib-org/btclib#2909](https://github.com/btclib-org/btclib/pull/2909): the import test also keeps btclib free of `bip32_descriptors`
 - [spring-projects/spring-session#4150](https://github.com/spring-projects/spring-session/pull/4150): changing a session id removes the old id from the Redis expirations set
 - [pmd/pmd#7280](https://github.com/pmd/pmd/pull/7280): `InternalApiUsage` no longer flags `@VisibleForTesting` members used inside their own record or enum
-- [LearningCircuit/local-deep-research#8238](https://github.com/LearningCircuit/local-deep-research/pull/8238): the session-check 503 has the same body whichever check refused the request
+- [LearningCircuit/local-deep-research#8238](https://github.com/LearningCircuit/local-deep-research/pull/8238): the session-check 503 has the same body whichever check refused the request (merged)
+- [datamodel-code-generator/datamodel-code-generator#6127](https://github.com/datamodel-code-generator/datamodel-code-generator/pull/6127): `minContains` and `maxContains` written as `2.0` are read as integers instead of being dropped
+- [mojohaus/flatten-maven-plugin#562](https://github.com/mojohaus/flatten-maven-plugin/pull/562): parent and imported POMs resolve from repositories declared in the POM chain
+- [haydenbleasel/ultracite#864](https://github.com/haydenbleasel/ultracite/pull/864): re-running `init` keeps oxlint's `core` preset first and `anti-slop` last
