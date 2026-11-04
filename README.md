@@ -42,3 +42,4 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [btclib-org/btclib#2915](https://github.com/btclib-org/btclib/pull/2915): documentation source links point at `main` instead of `master`
 - [floci-io/floci-az#630](https://github.com/floci-io/floci-az/pull/630): Container Apps environments report a `customDomainVerificationId`
 - [floci-io/floci-az#631](https://github.com/floci-io/floci-az/pull/631): Append Block answers with `Last-Modified` and `x-ms-request-server-encrypted`
+- [datamodel-code-generator/datamodel-code-generator#6236](https://github.com/datamodel-code-generator/datamodel-code-generator/pull/6236): a `$ref` to a `$dynamicAnchor`, or to an `$anchor` under `contains` or `not`, resolves instead of stopping the run
