@@ -30,7 +30,7 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [LearningCircuit/local-deep-research#8212](https://github.com/LearningCircuit/local-deep-research/pull/8212): hiding the settings JSON editor saves only the keys that were edited (merged)
 - [LearningCircuit/local-deep-research#8213](https://github.com/LearningCircuit/local-deep-research/pull/8213): a failed theme save from the header puts the previous theme back (merged)
 - [btclib-org/btclib#2908](https://github.com/btclib-org/btclib/pull/2908): `obfuscate` refuses a huge negative offset with btclib's own error (merged)
-- [btclib-org/btclib#2909](https://github.com/btclib-org/btclib/pull/2909): the import test also keeps btclib free of `bip32_descriptors`
+- [btclib-org/btclib#2909](https://github.com/btclib-org/btclib/pull/2909): the import test also keeps btclib free of `bip32_descriptors` (merged)
 - [spring-projects/spring-session#4150](https://github.com/spring-projects/spring-session/pull/4150): changing a session id removes the old id from the Redis expirations set
 - [pmd/pmd#7280](https://github.com/pmd/pmd/pull/7280): `InternalApiUsage` no longer flags `@VisibleForTesting` members used inside their own record or enum
 - [LearningCircuit/local-deep-research#8238](https://github.com/LearningCircuit/local-deep-research/pull/8238): the session-check 503 has the same body whichever check refused the request (merged)
