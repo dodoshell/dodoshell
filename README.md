@@ -39,5 +39,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [LearningCircuit/local-deep-research#8274](https://github.com/LearningCircuit/local-deep-research/pull/8274): credentials passed to a log call as bytes or `extra` keys are redacted like the message (merged)
 - [LearningCircuit/local-deep-research#8275](https://github.com/LearningCircuit/local-deep-research/pull/8275): an API key followed by a control character is redacted in logged exceptions
 - [btclib-org/btclib#2915](https://github.com/btclib-org/btclib/pull/2915): documentation source links point at `main` instead of `master` (merged)
-- [floci-io/floci-az#630](https://github.com/floci-io/floci-az/pull/630): Container Apps environments report a `customDomainVerificationId`
+- [floci-io/floci-az#630](https://github.com/floci-io/floci-az/pull/630): Container Apps environments report a `customDomainVerificationId` (merged)
 - [floci-io/floci-az#631](https://github.com/floci-io/floci-az/pull/631): Append Block answers with `Last-Modified` and `x-ms-request-server-encrypted` (merged)
