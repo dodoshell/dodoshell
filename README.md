@@ -41,6 +41,7 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [btclib-org/btclib#2915](https://github.com/btclib-org/btclib/pull/2915): documentation source links point at `main` instead of `master` (merged)
 - [floci-io/floci-az#630](https://github.com/floci-io/floci-az/pull/630): Container Apps environments report a `customDomainVerificationId` (merged)
 - [floci-io/floci-az#631](https://github.com/floci-io/floci-az/pull/631): Append Block answers with `Last-Modified` and `x-ms-request-server-encrypted` (merged)
-- [The-PR-Agent/pr-agent#4810](https://github.com/The-PR-Agent/pr-agent/pull/4810): generic `password`, `secret` and `token` assignments in CI artifacts are redacted
+- [The-PR-Agent/pr-agent#4810](https://github.com/The-PR-Agent/pr-agent/pull/4810): generic `password`, `secret` and `token` assignments in CI artifacts are redacted (merged)
 - [open-constructs/cdk-terrain#592](https://github.com/open-constructs/cdk-terrain/pull/592): `replaceTriggeredBy` references render without the `${}` Terraform rejects
-- [floci-io/floci-az#649](https://github.com/floci-io/floci-az/pull/649): a plain Container Apps secret no longer keeps an empty `keyVaultUrl`
+- [floci-io/floci-az#649](https://github.com/floci-io/floci-az/pull/649): a plain Container Apps secret no longer keeps an empty `keyVaultUrl` (merged)
+- [ArcadeData/arcadedb#11466](https://github.com/ArcadeData/arcadedb/pull/11466): GraphQL fields apply declared argument defaults and reject a missing required argument
