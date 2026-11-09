@@ -34,12 +34,10 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [spring-projects/spring-session#4150](https://github.com/spring-projects/spring-session/pull/4150): changing a session id removes the old id from the Redis expirations set
 - [pmd/pmd#7280](https://github.com/pmd/pmd/pull/7280): `InternalApiUsage` no longer flags `@VisibleForTesting` members used inside their own record or enum
 - [LearningCircuit/local-deep-research#8238](https://github.com/LearningCircuit/local-deep-research/pull/8238): the session-check 503 has the same body whichever check refused the request (merged)
-- [datamodel-code-generator/datamodel-code-generator#6127](https://github.com/datamodel-code-generator/datamodel-code-generator/pull/6127): `minContains` and `maxContains` written as `2.0` are read as integers instead of being dropped
-- [mojohaus/flatten-maven-plugin#562](https://github.com/mojohaus/flatten-maven-plugin/pull/562): parent and imported POMs resolve from repositories declared in the POM chain
+- [mojohaus/flatten-maven-plugin#562](https://github.com/mojohaus/flatten-maven-plugin/pull/562): parent and imported POMs resolve from repositories declared in the POM chain (merged)
 - [haydenbleasel/ultracite#864](https://github.com/haydenbleasel/ultracite/pull/864): re-running `init` keeps oxlint's `core` preset first and `anti-slop` last
-- [LearningCircuit/local-deep-research#8274](https://github.com/LearningCircuit/local-deep-research/pull/8274): credentials passed to a log call as bytes or `extra` keys are redacted like the message
+- [LearningCircuit/local-deep-research#8274](https://github.com/LearningCircuit/local-deep-research/pull/8274): credentials passed to a log call as bytes or `extra` keys are redacted like the message (merged)
 - [LearningCircuit/local-deep-research#8275](https://github.com/LearningCircuit/local-deep-research/pull/8275): an API key followed by a control character is redacted in logged exceptions
 - [btclib-org/btclib#2915](https://github.com/btclib-org/btclib/pull/2915): documentation source links point at `main` instead of `master` (merged)
 - [floci-io/floci-az#630](https://github.com/floci-io/floci-az/pull/630): Container Apps environments report a `customDomainVerificationId`
-- [floci-io/floci-az#631](https://github.com/floci-io/floci-az/pull/631): Append Block answers with `Last-Modified` and `x-ms-request-server-encrypted`
-- [datamodel-code-generator/datamodel-code-generator#6236](https://github.com/datamodel-code-generator/datamodel-code-generator/pull/6236): a `$ref` to a `$dynamicAnchor`, or to an `$anchor` under `contains` or `not`, resolves instead of stopping the run
+- [floci-io/floci-az#631](https://github.com/floci-io/floci-az/pull/631): Append Block answers with `Last-Modified` and `x-ms-request-server-encrypted` (merged)
