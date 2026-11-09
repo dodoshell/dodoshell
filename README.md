@@ -45,5 +45,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [open-constructs/cdk-terrain#592](https://github.com/open-constructs/cdk-terrain/pull/592): `replaceTriggeredBy` references render without the `${}` Terraform rejects
 - [floci-io/floci-az#649](https://github.com/floci-io/floci-az/pull/649): a plain Container Apps secret no longer keeps an empty `keyVaultUrl` (merged)
 - [ArcadeData/arcadedb#11466](https://github.com/ArcadeData/arcadedb/pull/11466): GraphQL fields apply declared argument defaults and reject a missing required argument
-- [doobidoo/mcp-memory-service#1932](https://github.com/doobidoo/mcp-memory-service/pull/1932): the startup dependency check accepts the ONNX backend instead of reporting PyTorch as missing
+- [doobidoo/mcp-memory-service#1932](https://github.com/doobidoo/mcp-memory-service/pull/1932): the startup dependency check accepts the ONNX backend instead of reporting PyTorch as missing (merged)
 - [LearningCircuit/local-deep-research#8511](https://github.com/LearningCircuit/local-deep-research/pull/8511): a blocked SearXNG URL is warned about once per research instead of at every step
