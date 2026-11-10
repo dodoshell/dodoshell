@@ -47,3 +47,4 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [ArcadeData/arcadedb#11466](https://github.com/ArcadeData/arcadedb/pull/11466): GraphQL fields apply declared argument defaults and reject a missing required argument
 - [doobidoo/mcp-memory-service#1932](https://github.com/doobidoo/mcp-memory-service/pull/1932): the startup dependency check accepts the ONNX backend instead of reporting PyTorch as missing (merged)
 - [LearningCircuit/local-deep-research#8511](https://github.com/LearningCircuit/local-deep-research/pull/8511): a blocked SearXNG URL is warned about once per research instead of at every step (merged)
+- [LearningCircuit/local-deep-research#8532](https://github.com/LearningCircuit/local-deep-research/pull/8532): the SearXNG warning dedup documents and tests what happens after 256 blocked URLs
