@@ -49,3 +49,4 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [LearningCircuit/local-deep-research#8511](https://github.com/LearningCircuit/local-deep-research/pull/8511): a blocked SearXNG URL is warned about once per research instead of at every step (merged)
 - [LearningCircuit/local-deep-research#8532](https://github.com/LearningCircuit/local-deep-research/pull/8532): the SearXNG warning dedup documents and tests what happens after 256 blocked URLs
 - [pmd/pmd#7312](https://github.com/pmd/pmd/pull/7312): `UnusedAssignment` no longer flags the increment in a do-while condition
+- [Pari030/get-ip-by-anydesk#4](https://github.com/Pari030/get-ip-by-anydesk/pull/4): the script runs on Linux too and skips every private address range
