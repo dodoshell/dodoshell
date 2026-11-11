@@ -35,7 +35,7 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [pmd/pmd#7280](https://github.com/pmd/pmd/pull/7280): `InternalApiUsage` no longer flags `@VisibleForTesting` members used inside their own record or enum (merged)
 - [LearningCircuit/local-deep-research#8238](https://github.com/LearningCircuit/local-deep-research/pull/8238): the session-check 503 has the same body whichever check refused the request (merged)
 - [mojohaus/flatten-maven-plugin#562](https://github.com/mojohaus/flatten-maven-plugin/pull/562): parent and imported POMs resolve from repositories declared in the POM chain (merged)
-- [haydenbleasel/ultracite#864](https://github.com/haydenbleasel/ultracite/pull/864): re-running `init` keeps oxlint's `core` preset first and `anti-slop` last
+- [haydenbleasel/ultracite#864](https://github.com/haydenbleasel/ultracite/pull/864): re-running `init` keeps oxlint's `core` preset first and `anti-slop` last (merged)
 - [LearningCircuit/local-deep-research#8274](https://github.com/LearningCircuit/local-deep-research/pull/8274): credentials passed to a log call as bytes or `extra` keys are redacted like the message (merged)
 - [LearningCircuit/local-deep-research#8275](https://github.com/LearningCircuit/local-deep-research/pull/8275): an API key followed by a control character is redacted in logged exceptions (merged)
 - [btclib-org/btclib#2915](https://github.com/btclib-org/btclib/pull/2915): documentation source links point at `main` instead of `master` (merged)
@@ -51,4 +51,4 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [pmd/pmd#7312](https://github.com/pmd/pmd/pull/7312): `UnusedAssignment` no longer flags the increment in a do-while condition
 - [Pari030/get-ip-by-anydesk#4](https://github.com/Pari030/get-ip-by-anydesk/pull/4): the script runs on Linux too and skips every private address range
 - [KaotoIO/kaoto#4417](https://github.com/KaotoIO/kaoto/pull/4417): the properties count badge is an inline element, so it no longer nests a `<div>` inside a `<p>`
-- [ArcadeData/arcadedb#11515](https://github.com/ArcadeData/arcadedb/pull/11515): `CREATE EDGE` renders `UNIDIRECTIONAL` after its `SET`/`CONTENT` body, in the order the parser accepts
+- [ArcadeData/arcadedb#11515](https://github.com/ArcadeData/arcadedb/pull/11515): `CREATE EDGE` renders `UNIDIRECTIONAL` after its `SET`/`CONTENT` body, in the order the parser accepts (merged)
