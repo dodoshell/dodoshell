@@ -42,7 +42,7 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [floci-io/floci-az#630](https://github.com/floci-io/floci-az/pull/630): Container Apps environments report a `customDomainVerificationId` (merged)
 - [floci-io/floci-az#631](https://github.com/floci-io/floci-az/pull/631): Append Block answers with `Last-Modified` and `x-ms-request-server-encrypted` (merged)
 - [The-PR-Agent/pr-agent#4810](https://github.com/The-PR-Agent/pr-agent/pull/4810): generic `password`, `secret` and `token` assignments in CI artifacts are redacted (merged)
-- [open-constructs/cdk-terrain#592](https://github.com/open-constructs/cdk-terrain/pull/592): `replaceTriggeredBy` references render without the `${}` Terraform rejects
+- [open-constructs/cdk-terrain#592](https://github.com/open-constructs/cdk-terrain/pull/592): `replaceTriggeredBy` references render without the `${}` Terraform rejects (merged)
 - [floci-io/floci-az#649](https://github.com/floci-io/floci-az/pull/649): a plain Container Apps secret no longer keeps an empty `keyVaultUrl` (merged)
 - [ArcadeData/arcadedb#11466](https://github.com/ArcadeData/arcadedb/pull/11466): GraphQL fields apply declared argument defaults and reject a missing required argument
 - [doobidoo/mcp-memory-service#1932](https://github.com/doobidoo/mcp-memory-service/pull/1932): the startup dependency check accepts the ONNX backend instead of reporting PyTorch as missing (merged)
@@ -50,3 +50,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [LearningCircuit/local-deep-research#8532](https://github.com/LearningCircuit/local-deep-research/pull/8532): the SearXNG warning dedup documents and tests what happens after 256 blocked URLs
 - [pmd/pmd#7312](https://github.com/pmd/pmd/pull/7312): `UnusedAssignment` no longer flags the increment in a do-while condition
 - [Pari030/get-ip-by-anydesk#4](https://github.com/Pari030/get-ip-by-anydesk/pull/4): the script runs on Linux too and skips every private address range
+- [KaotoIO/kaoto#4417](https://github.com/KaotoIO/kaoto/pull/4417): the properties count badge is an inline element, so it no longer nests a `<div>` inside a `<p>`
+- [ArcadeData/arcadedb#11515](https://github.com/ArcadeData/arcadedb/pull/11515): `CREATE EDGE` renders `UNIDIRECTIONAL` after its `SET`/`CONTENT` body, in the order the parser accepts
