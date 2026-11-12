@@ -55,3 +55,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [pmd/pmd#7330](https://github.com/pmd/pmd/pull/7330): `InsecureCryptoIv` and `HardCodedCryptoKey` catch a hard-coded key or IV passed as `this.field`
 - [equinor/ert#14968](https://github.com/equinor/ert/pull/14968): the storage server shuts down right away instead of waiting out a TLS timeout
 - [open-constructs/cdk-terrain#609](https://github.com/open-constructs/cdk-terrain/pull/609): a bundled asset whose hash is unchanged reuses its artifact instead of rebuilding on every synth
+- [EvoScientist/EvoScientist#810](https://github.com/EvoScientist/EvoScientist/pull/810): file tools reach a folder named like the workspace, and deleting the workspace root is refused
+- [ludo-technologies/pyscn#889](https://github.com/ludo-technologies/pyscn/pull/889): a package `__init__.py` that only re-exports its submodules is no longer flagged by the single-responsibility rule
