@@ -50,7 +50,7 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [LearningCircuit/local-deep-research#8532](https://github.com/LearningCircuit/local-deep-research/pull/8532): the SearXNG warning dedup documents and tests what happens after 256 blocked URLs
 - [pmd/pmd#7312](https://github.com/pmd/pmd/pull/7312): `UnusedAssignment` no longer flags the increment in a do-while condition
 - [Pari030/get-ip-by-anydesk#4](https://github.com/Pari030/get-ip-by-anydesk/pull/4): the script runs on Linux too and skips every private address range
-- [KaotoIO/kaoto#4417](https://github.com/KaotoIO/kaoto/pull/4417): the properties count badge is an inline element, so it no longer nests a `<div>` inside a `<p>`
+- [KaotoIO/kaoto#4417](https://github.com/KaotoIO/kaoto/pull/4417): the properties count badge is an inline element, so it no longer nests a `<div>` inside a `<p>` (merged)
 - [ArcadeData/arcadedb#11515](https://github.com/ArcadeData/arcadedb/pull/11515): `CREATE EDGE` renders `UNIDIRECTIONAL` after its `SET`/`CONTENT` body, in the order the parser accepts (merged)
 - [LearningCircuit/local-deep-research#8567](https://github.com/LearningCircuit/local-deep-research/pull/8567): a research that finishes just as Cancel is pressed stays completed instead of being marked suspended
 - [pmd/pmd#7330](https://github.com/pmd/pmd/pull/7330): `InsecureCryptoIv` and `HardCodedCryptoKey` catch a hard-coded key or IV passed as `this.field`
