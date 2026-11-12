@@ -53,3 +53,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [ArcadeData/arcadedb#11515](https://github.com/ArcadeData/arcadedb/pull/11515): `CREATE EDGE` renders `UNIDIRECTIONAL` after its `SET`/`CONTENT` body, in the order the parser accepts (merged)
 - [LearningCircuit/local-deep-research#8567](https://github.com/LearningCircuit/local-deep-research/pull/8567): a research that finishes just as Cancel is pressed stays completed instead of being marked suspended
 - [pmd/pmd#7330](https://github.com/pmd/pmd/pull/7330): `InsecureCryptoIv` and `HardCodedCryptoKey` catch a hard-coded key or IV passed as `this.field`
+- [equinor/ert#14968](https://github.com/equinor/ert/pull/14968): the storage server shuts down right away instead of waiting out a TLS timeout
+- [open-constructs/cdk-terrain#609](https://github.com/open-constructs/cdk-terrain/pull/609): a bundled asset whose hash is unchanged reuses its artifact instead of rebuilding on every synth
