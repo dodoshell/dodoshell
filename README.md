@@ -52,3 +52,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [Pari030/get-ip-by-anydesk#4](https://github.com/Pari030/get-ip-by-anydesk/pull/4): the script runs on Linux too and skips every private address range
 - [KaotoIO/kaoto#4417](https://github.com/KaotoIO/kaoto/pull/4417): the properties count badge is an inline element, so it no longer nests a `<div>` inside a `<p>`
 - [ArcadeData/arcadedb#11515](https://github.com/ArcadeData/arcadedb/pull/11515): `CREATE EDGE` renders `UNIDIRECTIONAL` after its `SET`/`CONTENT` body, in the order the parser accepts (merged)
+- [LearningCircuit/local-deep-research#8567](https://github.com/LearningCircuit/local-deep-research/pull/8567): a research that finishes just as Cancel is pressed stays completed instead of being marked suspended
+- [pmd/pmd#7330](https://github.com/pmd/pmd/pull/7330): `InsecureCryptoIv` and `HardCodedCryptoKey` catch a hard-coded key or IV passed as `this.field`
