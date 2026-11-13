@@ -59,3 +59,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [EvoScientist/EvoScientist#810](https://github.com/EvoScientist/EvoScientist/pull/810): file tools reach a folder named like the workspace, and deleting the workspace root is refused (merged)
 - [ludo-technologies/pyscn#889](https://github.com/ludo-technologies/pyscn/pull/889): a package `__init__.py` that only re-exports its submodules is no longer flagged by the single-responsibility rule (merged)
 - [ludo-technologies/pyscn#890](https://github.com/ludo-technologies/pyscn/pull/890): LCOM4 treats a method using a computed `getattr` over a class-level name table as stateless
+- [ciscoheat/sveltekit-superforms#707](https://github.com/ciscoheat/sveltekit-superforms/pull/707): `superValidate(url)` reads only the search params in the schema, so other params don't rerun the load function
+- [apache/maven#13988](https://github.com/apache/maven/pull/13988): an imported BOM keeps its input locations even when an extension imported it first without location tracking
