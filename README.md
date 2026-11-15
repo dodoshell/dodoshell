@@ -51,13 +51,13 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [Pari030/get-ip-by-anydesk#4](https://github.com/Pari030/get-ip-by-anydesk/pull/4): the script runs on Linux too and skips every private address range
 - [KaotoIO/kaoto#4417](https://github.com/KaotoIO/kaoto/pull/4417): the properties count badge is an inline element, so it no longer nests a `<div>` inside a `<p>` (merged)
 - [ArcadeData/arcadedb#11515](https://github.com/ArcadeData/arcadedb/pull/11515): `CREATE EDGE` renders `UNIDIRECTIONAL` after its `SET`/`CONTENT` body, in the order the parser accepts (merged)
-- [LearningCircuit/local-deep-research#8567](https://github.com/LearningCircuit/local-deep-research/pull/8567): a research that finishes just as Cancel is pressed stays completed instead of being marked suspended
+- [LearningCircuit/local-deep-research#8567](https://github.com/LearningCircuit/local-deep-research/pull/8567): a research that finishes just as Cancel is pressed stays completed instead of being marked suspended (merged)
 - [pmd/pmd#7330](https://github.com/pmd/pmd/pull/7330): `InsecureCryptoIv` and `HardCodedCryptoKey` catch a hard-coded key or IV passed as `this.field`
 - [equinor/ert#14968](https://github.com/equinor/ert/pull/14968): the storage server shuts down right away instead of waiting out a TLS timeout
 - [open-constructs/cdk-terrain#609](https://github.com/open-constructs/cdk-terrain/pull/609): a bundled asset whose hash is unchanged reuses its artifact instead of rebuilding on every synth
 - [open-constructs/cdk-terrain-docs#41](https://github.com/open-constructs/cdk-terrain-docs/pull/41): the assets page explains when a bundled asset is rebuilt and how to force a rebuild
 - [EvoScientist/EvoScientist#810](https://github.com/EvoScientist/EvoScientist/pull/810): file tools reach a folder named like the workspace, and deleting the workspace root is refused (merged)
 - [ludo-technologies/pyscn#889](https://github.com/ludo-technologies/pyscn/pull/889): a package `__init__.py` that only re-exports its submodules is no longer flagged by the single-responsibility rule (merged)
-- [ludo-technologies/pyscn#890](https://github.com/ludo-technologies/pyscn/pull/890): LCOM4 treats a method using a computed `getattr` over a class-level name table as stateless
+- [ludo-technologies/pyscn#890](https://github.com/ludo-technologies/pyscn/pull/890): LCOM4 treats a method using a computed `getattr` over a class-level name table as stateless (merged)
 - [ciscoheat/sveltekit-superforms#707](https://github.com/ciscoheat/sveltekit-superforms/pull/707): `superValidate(url)` reads only the search params in the schema, so other params don't rerun the load function
 - [apache/maven#13988](https://github.com/apache/maven/pull/13988): an imported BOM keeps its input locations even when an extension imported it first without location tracking
