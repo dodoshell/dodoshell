@@ -63,3 +63,4 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [apache/maven#13988](https://github.com/apache/maven/pull/13988): an imported BOM keeps its input locations even when an extension imported it first without location tracking
 - [apache/maven-mvnd#1944](https://github.com/apache/maven-mvnd/pull/1944): Ctrl+C cancels right away, also before the client is connected to a daemon
 - [btclib-org/btclib#3131](https://github.com/btclib-org/btclib/pull/3131): utreexo reads a leaf count or position as a plain `int` before its range check (merged)
+- [doobidoo/mcp-memory-service#2043](https://github.com/doobidoo/mcp-memory-service/pull/2043): the dashboard reports a finished or failed scheduled consolidation on its status island
