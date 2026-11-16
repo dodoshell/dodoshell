@@ -61,3 +61,5 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [ludo-technologies/pyscn#890](https://github.com/ludo-technologies/pyscn/pull/890): LCOM4 treats a method using a computed `getattr` over a class-level name table as stateless (merged)
 - [ciscoheat/sveltekit-superforms#707](https://github.com/ciscoheat/sveltekit-superforms/pull/707): `superValidate(url)` reads only the search params in the schema, so other params don't rerun the load function
 - [apache/maven#13988](https://github.com/apache/maven/pull/13988): an imported BOM keeps its input locations even when an extension imported it first without location tracking
+- [apache/maven-mvnd#1944](https://github.com/apache/maven-mvnd/pull/1944): Ctrl+C cancels right away, also before the client is connected to a daemon
+- [btclib-org/btclib#3131](https://github.com/btclib-org/btclib/pull/3131): utreexo reads a leaf count or position as a plain `int` before its range check (merged)
