@@ -55,7 +55,7 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [pmd/pmd#7330](https://github.com/pmd/pmd/pull/7330): `InsecureCryptoIv` and `HardCodedCryptoKey` catch a hard-coded key or IV passed as `this.field`
 - [equinor/ert#14968](https://github.com/equinor/ert/pull/14968): the storage server shuts down right away instead of waiting out a TLS timeout (merged)
 - [open-constructs/cdk-terrain#609](https://github.com/open-constructs/cdk-terrain/pull/609): a bundled asset whose hash is unchanged reuses its artifact instead of rebuilding on every synth (merged)
-- [open-constructs/cdk-terrain-docs#41](https://github.com/open-constructs/cdk-terrain-docs/pull/41): the assets page explains when a bundled asset is rebuilt and how to force a rebuild
+- [open-constructs/cdk-terrain-docs#41](https://github.com/open-constructs/cdk-terrain-docs/pull/41): the assets page explains when a bundled asset is rebuilt and how to force a rebuild (merged)
 - [EvoScientist/EvoScientist#810](https://github.com/EvoScientist/EvoScientist/pull/810): file tools reach a folder named like the workspace, and deleting the workspace root is refused (merged)
 - [ludo-technologies/pyscn#889](https://github.com/ludo-technologies/pyscn/pull/889): a package `__init__.py` that only re-exports its submodules is no longer flagged by the single-responsibility rule (merged)
 - [ludo-technologies/pyscn#890](https://github.com/ludo-technologies/pyscn/pull/890): LCOM4 treats a method using a computed `getattr` over a class-level name table as stateless (merged)
@@ -65,4 +65,6 @@ Full-stack developer working mostly with Java, TypeScript and Python. I build pr
 - [btclib-org/btclib#3131](https://github.com/btclib-org/btclib/pull/3131): utreexo reads a leaf count or position as a plain `int` before its range check (merged)
 - [doobidoo/mcp-memory-service#2043](https://github.com/doobidoo/mcp-memory-service/pull/2043): the dashboard reports a finished or failed scheduled consolidation on its status island (merged)
 - [Cotal-AI/Cotal#7113](https://github.com/Cotal-AI/Cotal/pull/7113): `cotal doctor auth --fix` says there is nothing to repair in an open space's root instead of refusing (merged)
-- [rollerderby/scoreboard#1033](https://github.com/rollerderby/scoreboard/pull/1033): undoing a timeout brings back the 5 second warning before the next jam
+- [rollerderby/scoreboard#1033](https://github.com/rollerderby/scoreboard/pull/1033): undoing a timeout brings back the 5 second warning before the next jam (merged)
+- [LearningCircuit/local-deep-research#8825](https://github.com/LearningCircuit/local-deep-research/pull/8825): a boolean setting set to "disabled" or to an unknown word follows the default instead of turning on
+- [EvoScientist/EvoScientist#861](https://github.com/EvoScientist/EvoScientist/pull/861): Ctrl+C stops the deploy server even when deploy's output is piped to a program that has exited
